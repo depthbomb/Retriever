@@ -16,7 +16,7 @@ Retriever comes with an optional CLI application `retriever.exe` that can be add
 
 ![Screenshot](https://i.imgur.com/UtVVSAj.png)
 
-5. Click the _New_ button at the right side of the new dialog box and paste the full path to your Retriever installation you copied in **step 1**. Click _OK_ on of the dialog boxes to apply changes
+5. Click the _New_ button at the right side of the new dialog box and paste the full path to your Retriever installation you copied in **step 1**. Click _OK_ on all of the dialog boxes to apply changes
 
 ---
 
