@@ -43,6 +43,8 @@ You can optionally install the Retriever CLI application on Windows. You will ne
 retriever USERNAME
 ```
 
+See [this page](https://github.com/depthbomb/Retriever/blob/master/PATH-HELP.md) for help on adding Retriever to your PATH on Windows.
+
 ## Potentially-FAQ
 
 <table>
